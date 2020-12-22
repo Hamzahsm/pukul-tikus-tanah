@@ -1,4 +1,4 @@
-const tanah = document.querySelectorAll('.tanah');
+const tanah = document.querySelectorAll('.tanah'); //izin fork pak 
 const tikus = document.querySelectorAll('.tikus');
 const papanSkor = document.querySelector('.papan-skor');
 const pop = document.querySelector('#pop');
